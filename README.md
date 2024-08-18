@@ -1,4 +1,4 @@
-## AI-based Portfolio Selection Papers
+# AI-based Portfolio Selection Papers
 Artificial Intelligence (AI) based Portfolio Selection Papers
 
 * [DeepClair: Utilizing Market Forecasts for Effective Portfolio Selection](https://arxiv.org/abs/2407.13427) (CIKM, 2024)
