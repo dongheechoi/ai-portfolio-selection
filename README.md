@@ -1,4 +1,6 @@
 # AI-based Portfolio Selection Papers
+* [Archived Repo](https://github.com/sangyx/deep-finance?tab=readme-ov-file#portfolio-selection)
+
 Artificial Intelligence (AI) based Portfolio Selection Papers
 
 * [DeepClair: Utilizing Market Forecasts for Effective Portfolio Selection](https://arxiv.org/abs/2407.13427) (CIKM, 2024)
