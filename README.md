@@ -26,6 +26,7 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [DeepScalper: A risk-aware reinforcement learning framework to capture fleeting intraday trading opportunities.](https://dl.acm.org/doi/10.1145/3511808.3557283) (CIKM, 2022)
 * [Stock market index prediction using deep Transformer model.](https://www.sciencedirect.com/science/article/pii/S0957417422013100) (Expert Systems with Applications,2022)
 * [A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/pii/S0957417420304334) (Expert Systems with Applications, 2020)
+* [Global Stock Market Prediction Based on Stock Chart Images Using Deep Q-Network](https://ieeexplore.ieee.org/document/8901118) (IEEE Access,2019)
 
 ## AI-based Stock Prediction
 * [Finformer: A Static-dynamic Spatiotemporal Framework for Stock Trend Prediction](https://ieeexplore.ieee.org/abstract/document/10386751) (BigData, 2024)
