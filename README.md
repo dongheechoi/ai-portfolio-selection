@@ -41,4 +41,4 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [Multi-Stage International Portfolio Selection with Factor-Based Scenario Tree Generation](https://link.springer.com/article/10.1007/s10614-024-10699-x) (Computational Economics, 2024)
 * [Optimization of conditional value-at-risk](https://www.ise.ufl.edu/uryasev/files/2011/11/CVaR1_JOR.pdf) (Journal of risk 2, 2000)
 * [Mean-absolute deviation portfolio optimization model and its applications to Tokyo stock market](https://www.jstor.org/stable/2632458) (Management Science, 1991)
-* [Portfolio Selection: Efficient Diversification of Investments](https://www.jstor.org/stable/j.ctt1bh4c8h) (1959).
+* [Portfolio Selection: Efficient Diversification of Investments](https://www.jstor.org/stable/2975974?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A93c79db50c6f70ff56cc64fdedc43b1a) (1959).
