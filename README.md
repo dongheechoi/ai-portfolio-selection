@@ -25,14 +25,22 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [Advancing Investment Frontiers: Industry-grade Deep Reinforcement Learning for Portfolio Optimization](https://arxiv.org/abs/2403.07916) (Arxiv, 2024)
 * [Efficient Continuous Space Policy Optimization for High-frequency Trading](https://dl.acm.org/doi/abs/10.1145/3580305.3599813) (KDD, 2023)
 * [DeepScalper: A risk-aware reinforcement learning framework to capture fleeting intraday trading opportunities.](https://dl.acm.org/doi/10.1145/3511808.3557283) (CIKM, 2022)
+* [Stock Selection via Spatiotemporal Hypergraph Attention Network: A Learning to Rank Approach](https://ojs.aaai.org/index.php/AAAI/article/view/16127) (AAAI, 2021)
+* [AlphaStock: A Buying-Winners-and-Selling-Losers Investment Strategy using Interpretable Deep Reinforcement Attention Networks](https://dl.acm.org/doi/abs/10.1145/3292500.3330647) (AAAI, 2019)
 
 ## AI-based Stock Prediction
 * [Enhancing Few-Shot Stock Trend Prediction with Large Language Models](https://arxiv.org/abs/2407.09003) (Arxiv, 2024)
 * [Finformer: A Static-dynamic Spatiotemporal Framework for Stock Trend Prediction](https://ieeexplore.ieee.org/abstract/document/10386751) (BigData, 2024)
+* [FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns](https://ojs.aaai.org/index.php/AAAI/article/view/20369) (AAAI, 2022)
 * [Transformer-based attention network for stock movement prediction](https://www.sciencedirect.com/science/article/pii/S0957417422006170) (Expert Systems with Applications, 2022)
 * [Stock market index prediction using deep Transformer model.](https://www.sciencedirect.com/science/article/pii/S0957417422013100) (Expert Systems with Applications,2022)
+* [Accurate Multivariate Stock Movement Prediction via Data-Axis Transformer with Multi-Level Contexts](https://dl.acm.org/doi/abs/10.1145/3447548.3467297) (KDD, 2021)
+* [Learning Multiple Stock Trading Patterns with Temporal Routing Adaptor and Optimal Transport](https://dl.acm.org/doi/abs/10.1145/3447548.3467358) (KDD, 2021)
+* [Forecasting daily stock trend using multi-filter feature selection and deep learning](https://www.sciencedirect.com/science/article/pii/S095741742031099X) (Expert Systems with Applications, 2021)
 * [A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/pii/S0957417420304334) (Expert Systems with Applications, 2020)
+* [Modeling the Stock Relation with Graph Network for Overnight Stock Movement Prediction](https://www.ijcai.org/proceedings/2020/0626) (IJCAI, 2020)
 * [Temporal Relational Ranking for Stock Prediction](https://dl.acm.org/doi/abs/10.1145/3309547) (TOIS, 2019)
+* [Enhancing Stock Movement Prediction with Adversarial Training](https://www.ijcai.org/proceedings/2019/0810) (IJCAI, 2019)
 * [Global Stock Market Prediction Based on Stock Chart Images Using Deep Q-Network](https://ieeexplore.ieee.org/document/8901118) (IEEE Access,2019)
 * [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183/) (ACL, 2018) 
 * [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://dl.acm.org/doi/10.1145/3159652.3159690) (WSDM, 2018)
@@ -45,6 +53,7 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 ## Other Approaches
 * [An asset subset-constrained minimax optimization framework for online portfolio selection](https://www.sciencedirect.com/science/article/pii/S0957417424011655) (Expert Systems with Applications, 2024)
 * [Multi-Stage International Portfolio Selection with Factor-Based Scenario Tree Generation](https://link.springer.com/article/10.1007/s10614-024-10699-x) (Computational Economics, 2024)
+* [A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost](https://www.sciencedirect.com/science/article/pii/S0957417422016414) (Expert Systems with Applications, 2023)
 * [Optimization of conditional value-at-risk](https://www.ise.ufl.edu/uryasev/files/2011/11/CVaR1_JOR.pdf) (Journal of risk 2, 2000)
 * [Mean-absolute deviation portfolio optimization model and its applications to Tokyo stock market](https://www.jstor.org/stable/2632458) (Management Science, 1991)
 * [Portfolio Selection: Efficient Diversification of Investments](https://www.jstor.org/stable/2975974?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A93c79db50c6f70ff56cc64fdedc43b1a) (1959).
