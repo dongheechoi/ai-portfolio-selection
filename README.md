@@ -22,19 +22,25 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading](https://arxiv.org/abs/2406.14537) (KDD, 2024)
 * [EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) (AAAI, 2024)
 * [IMM: An Imitative Reinforcement Learning Approach with Predictive Representation Learning for Automatic Market Making](https://www.ijcai.org/proceedings/2024/663) (IJCAI, 2024)
-* [Enhancing Few-Shot Stock Trend Prediction with Large Language Models](https://arxiv.org/abs/2407.09003) (Arxiv, 2024)
 * [Advancing Investment Frontiers: Industry-grade Deep Reinforcement Learning for Portfolio Optimization](https://arxiv.org/abs/2403.07916) (Arxiv, 2024)
 * [Efficient Continuous Space Policy Optimization for High-frequency Trading](https://dl.acm.org/doi/abs/10.1145/3580305.3599813) (KDD, 2023)
 * [DeepScalper: A risk-aware reinforcement learning framework to capture fleeting intraday trading opportunities.](https://dl.acm.org/doi/10.1145/3511808.3557283) (CIKM, 2022)
-* [Stock market index prediction using deep Transformer model.](https://www.sciencedirect.com/science/article/pii/S0957417422013100) (Expert Systems with Applications,2022)
-* [A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/pii/S0957417420304334) (Expert Systems with Applications, 2020)
-* [Global Stock Market Prediction Based on Stock Chart Images Using Deep Q-Network](https://ieeexplore.ieee.org/document/8901118) (IEEE Access,2019)
 
 ## AI-based Stock Prediction
+* [Enhancing Few-Shot Stock Trend Prediction with Large Language Models](https://arxiv.org/abs/2407.09003) (Arxiv, 2024)
 * [Finformer: A Static-dynamic Spatiotemporal Framework for Stock Trend Prediction](https://ieeexplore.ieee.org/abstract/document/10386751) (BigData, 2024)
+* [Transformer-based attention network for stock movement prediction](https://www.sciencedirect.com/science/article/pii/S0957417422006170) (Expert Systems with Applications, 2022)
+* [Stock market index prediction using deep Transformer model.](https://www.sciencedirect.com/science/article/pii/S0957417422013100) (Expert Systems with Applications,2022)
+* [A novel deep learning framework: Prediction and analysis of financial time series using CEEMD and LSTM](https://www.sciencedirect.com/science/article/pii/S0957417420304334) (Expert Systems with Applications, 2020)
+* [Temporal Relational Ranking for Stock Prediction](https://dl.acm.org/doi/abs/10.1145/3309547) (TOIS, 2019)
+* [Global Stock Market Prediction Based on Stock Chart Images Using Deep Q-Network](https://ieeexplore.ieee.org/document/8901118) (IEEE Access,2019)
+* [Stock Movement Prediction from Tweets and Historical Prices](https://aclanthology.org/P18-1183/) (ACL, 2018) 
+* [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://dl.acm.org/doi/10.1145/3159652.3159690) (WSDM, 2018)
 
 ## Survey
 * [Reinforcement Learning for Quantitative Trading](https://dl.acm.org/doi/full/10.1145/3582560) (ACM Transactions on Intelligent Systems and Technology, 2023)
+* [Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/pii/S0957417421009441) (Expert Systems with Applications, 2021)
+* [Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://www.sciencedirect.com/science/article/pii/S1568494620301216) (Applied Soft Computing, 2020)
 
 ## Other Approaches
 * [An asset subset-constrained minimax optimization framework for online portfolio selection](https://www.sciencedirect.com/science/article/pii/S0957417424011655) (Expert Systems with Applications, 2024)
