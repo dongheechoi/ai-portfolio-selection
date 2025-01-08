@@ -4,6 +4,8 @@
 Artificial Intelligence (AI) based Portfolio Selection Papers
 
 * [DeepClair: Utilizing Market Forecasts for Effective Portfolio Selection](https://arxiv.org/abs/2407.13427) (CIKM, 2024)
+* [FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition](https://dl.acm.org/doi/abs/10.1145/3637528.3671668) (KDD, 2024)
+* [Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools](https://dl.acm.org/doi/abs/10.1145/3589334.3645615) (Webconf, 2024)
 * [Cross-Insight Trader: A Trading Approach Integrating Policies with Diverse Investment Horizons for Portfolio Management](https://ieeexplore.ieee.org/abstract/document/10597980) (ICDE, 2024)
 * [Curriculum learning empowered reinforcement learning for graph-based portfolio management: Performance optimization and comprehensive analysis](https://www.sciencedirect.com/science/article/pii/S0893608024004611) (Neural Networks, 2024)
 * [Trend-Heuristic Reinforcement Learning Framework for News-Oriented Stock Portfolio Management](https://ieeexplore.ieee.org/abstract/document/10447993) (ICASSP, 2024)
@@ -22,6 +24,7 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059) (Arxiv, 2017)
 
 ## AI-based Trading
+* [STORM: A Spatio-Temporal Factor Model Based on Dual Vector Quantized Variational Autoencoders for Financial Trading](https://arxiv.org/abs/2412.09468) (Arxiv, 2024)
 * [A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist](https://arxiv.org/abs/2402.18485) (Arxiv, 2024)
 * [MacroHFT: Memory Augmented Context-aware Reinforcement Learning On High Frequency Trading](https://arxiv.org/abs/2406.14537) (KDD, 2024)
 * [EarnHFT: Efficient Hierarchical Reinforcement Learning for High Frequency Trading](https://ojs.aaai.org/index.php/AAAI/article/view/29384) (AAAI, 2024)
@@ -64,13 +67,20 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://dl.acm.org/doi/10.1145/3159652.3159690) (WSDM, 2018)
 
 ## Survey
+* [Foundation Models for Time Series Analysis: A Tutorial and Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671451) (KDD, 2024)
 * [Reinforcement Learning for Quantitative Trading](https://dl.acm.org/doi/full/10.1145/3582560) (ACM Transactions on Intelligent Systems and Technology, 2023)
 * [Applications of deep learning in stock market prediction: Recent progress](https://www.sciencedirect.com/science/article/pii/S0957417421009441) (Expert Systems with Applications, 2021)
 * [Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://www.sciencedirect.com/science/article/pii/S1568494620301216) (Applied Soft Computing, 2020)
 
 ## Other Approaches
+* [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782) (Arxiv, 2024)
+* [PST: Improving Quantitative Trading via Program Sketch-based Tuning](https://arxiv.org/abs/2310.05551) (Arxiv, 2023)
+* [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](https://arxiv.org/abs/2306.11025) (Arxiv, 2023)
+* [ChatGPT Informed Graph Neural Network for Stock Movement Prediction](https://arxiv.org/abs/2306.03763) (SSRN, 2023)
+* [The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges](https://arxiv.org/abs/2304.05351) (Arxiv, 2023)
 * [An asset subset-constrained minimax optimization framework for online portfolio selection](https://www.sciencedirect.com/science/article/pii/S0957417424011655) (Expert Systems with Applications, 2024)
 * [Multi-Stage International Portfolio Selection with Factor-Based Scenario Tree Generation](https://link.springer.com/article/10.1007/s10614-024-10699-x) (Computational Economics, 2024)
+* [Leveraging Vision-Language Models for Granular Market Change Prediction](https://arxiv.org/abs/2301.10166) (Multimodal AI for Financial Forecasting Workshop (Muffin) at AAAI 2023)
 * [A machine learning trading system for the stock market based on N-period Min-Max labeling using XGBoost](https://www.sciencedirect.com/science/article/pii/S0957417422016414) (Expert Systems with Applications, 2023)
 * [Heterogeneous Interactive Snapshot Network for Review-Enhanced Stock Profiling and Recommendation](https://www.ijcai.org/proceedings/2022/0550) (IJCAI, 2022)
 * [FinSense: An Assistant System for Financial Journalists and Investors](https://dl.acm.org/doi/abs/10.1145/3437963.3441704) (WSDM, 2021)
