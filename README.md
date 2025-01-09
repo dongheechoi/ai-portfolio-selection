@@ -92,3 +92,11 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [MAEC: A Multimodal Aligned Earnings Conference Call Dataset for Financial Risk Prediction](https://dl.acm.org/doi/abs/10.1145/3340531.3412879) (CIKM, 2020)
 * [Mean-absolute deviation portfolio optimization model and its applications to Tokyo stock market](https://www.jstor.org/stable/2632458) (Management Science, 1991)
 * [Portfolio Selection: Efficient Diversification of Investments](https://www.jstor.org/stable/2975974?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A93c79db50c6f70ff56cc64fdedc43b1a) (1959).
+* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting (2023)
+https://arxiv.org/abs/2306.11025 
+* ChatGPT Informed Graph Neural Network for Stock Movement Prediction (2023)
+https://arxiv.org/abs/2306.03763 
+* The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges (2023)
+https://arxiv.org/abs/2304.05351 
+* Leveraging Vision-Language Models for Granular Market Change Prediction (2023)
+https://arxiv.org/abs/2301.10166
