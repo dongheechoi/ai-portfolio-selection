@@ -73,6 +73,9 @@ Artificial Intelligence (AI) based Portfolio Selection Papers
 * [Financial time series forecasting with deep learning : A systematic literature review: 2005–2019](https://www.sciencedirect.com/science/article/pii/S1568494620301216) (Applied Soft Computing, 2020)
 
 ## Other Approaches
+* [LSTM-Copula Hybrid Approach for Forecasting Ris in Multi-Asset Portfolios](https://www.preprints.org/manuscript/202505.0610/v1) (Preprint, 2025)
+* [Time-Series Premium Risk Prediction via Bidirectional Transformer](https://www.pspress.org/index.php/tcsm/article/view/191) (Transactions on Computational and Scientific Methods, 2025)
+* [Multimodal Data-Driven Factor Models for Stock Market Forecasting](https://ashpress.org/index.php/jcts/article/view/132) (Journal of Computer Technology and Software, 2025)
 * [TradExpert: Revolutionizing Trading with Mixture of Expert LLMs](https://arxiv.org/abs/2411.00782) (Arxiv, 2024)
 * [PST: Improving Quantitative Trading via Program Sketch-based Tuning](https://arxiv.org/abs/2310.05551) (Arxiv, 2023)
 * [Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting](https://arxiv.org/abs/2306.11025) (Arxiv, 2023)
