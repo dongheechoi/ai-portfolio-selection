@@ -2,7 +2,7 @@
 * [Archived Repo](https://github.com/sangyx/deep-finance?tab=readme-ov-file#portfolio-selection)
 
 Artificial Intelligence (AI) based Portfolio Selection Papers
-
+* [DeepAries: Adaptive Rebalancing Interval Selection for Enhanced Portfolio Selection](https://arxiv.org/abs/2510.14985) (CIKM, 2025)
 * [DeepClair: Utilizing Market Forecasts for Effective Portfolio Selection](https://arxiv.org/abs/2407.13427) (CIKM, 2024)
 * [FreQuant: A Reinforcement-Learning based Adaptive Portfolio Optimization with Multi-frequency Decomposition](https://dl.acm.org/doi/abs/10.1145/3637528.3671668) (KDD, 2024)
 * [Reinforcement Learning with Maskable Stock Representation for Portfolio Management in Customizable Stock Pools](https://dl.acm.org/doi/abs/10.1145/3589334.3645615) (Webconf, 2024)
